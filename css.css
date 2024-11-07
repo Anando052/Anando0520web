@@ -1,0 +1,12 @@
+.border {
+  
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+.idk {
+    border-radius: 10px;
+    background-color: blue;
+    justify-content: center;
+}
